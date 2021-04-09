@@ -93,7 +93,7 @@ Ask the participants to give you a ROTI, with a verbatim each time they dont mar
 
 - This repository will help you know and understand the API Freco.
 - The cards needed to play the game are in this repository. You can download and print them. 
-- You'll also find digital workplace templates, for you to quickly setup the workshop.
+- You'll also find digital workplace elements, for you to quickly setup your own API Freco workshop.
 - The LICENSE file details the licencing of the API Fresco.
 
 This repository will evolve through the time, more API concepts, languages, badges, etc. will come soon. Stay tuned!

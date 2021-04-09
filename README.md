@@ -12,7 +12,7 @@ This workshop is collaborative, empirical & entertaining.
 - [x] A set of cards provided in this repository,
 - [x] A digital workplace set up, if you want to do it remotely; a whiteboard if you want to do it on-site. Digital templates are provided in this repository.
 
-## Development of the workshop
+## The workshop
 This workshop takes place in three main phases: the introduction, the freco build and the conclusion.
 
 ### 1. Introduction

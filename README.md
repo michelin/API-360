@@ -100,7 +100,9 @@ It is also for you the opportunity to contact us if you want to try this worksho
 **API Ambassador**
 A person who attended the API Fresco is becoming an API Ambassador. This person knows APIs and its related concepts and stakes.
 
-![API Ambassador Badge]()
+![API Ambassador Badge](img/Sticker_Ambassador_miniature.png)  
+[click here](https://github.com/michelin/API-Fresco/blob/main/img/Sticker_Ambassador.png) to find the high quality badge.
+
 
 **API Facilitator**
 An API expert can become facilitator to spread the API Culture amonst his/her company. If you become a facilitator, contact us to join the network!

@@ -9,3 +9,8 @@ You'll find here elements that will enable you to quickly setting-up your API Fr
 ## Example link
 
 ## Elements you can use
+
+**Wave elements to hide the cards**  
+[Wave 1 element](../img/Wave1.png)  
+[Wave 2 element](../img/Wave2.png)  
+[Wave 3 element](../img/Wave3.png)

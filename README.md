@@ -10,7 +10,7 @@ This workshop is collaborative, empirical & entertaining.
 ## Prerequisites
 - [x] An API expert, to facilitate the workshop,
 - [x] A set of cards provided in this repository,
-- [x] A digital workplace set up, if you want to do it remotely. Templates are provided in this repository.
+- [x] A digital workplace set up, if you want to do it remotely; a whiteboard if you want to do it on-site. Digital templates are provided in this repository.
 
 ## Development of the workshop
 This workshop takes place in three main phases: the introduction, the freco build and the conclusion.
@@ -23,7 +23,7 @@ Explain:
 - [x] how will the game play out,
 - [x] how the participants will interact, what they will have to do.
 
-You will find these information in the [section 2 - "Fresco build"](https://github.com/michelin/API-Fresco#2-fresco-build).
+You will find these insights in the [section 2 - "Fresco build"](https://github.com/michelin/API-Fresco#2-fresco-build).
 
 #### 1.2. Show them an example
 For this example, you, as a facilitator, will do what the participants will have to do in the next phases.  
@@ -44,15 +44,30 @@ This step could seem optional but the experience shows that it is very valuable 
 ### 2. Fresco build
 The API Fresco build plays out in different waves.  
  
-Each wave is the opportunity to discover 8 concepts and understand them.  
+Each wave is the opportunity to discover 8 concepts and understand them. There is one concept by card.  
 Each wave also complement the fresco by making the links between these concepts and the one already here on the fresco.
 
 **Wave conduct**
 1. *Reveal the concepts*  
     The 8 concepts of each waves are hidden to the attendees. The first step of the wave is to reveal the concepts to the participants, by spreading the cards on the table or unlocking the cover image (if done remotely).
     
-2. *Assign the concepts to the participants*
+2. *Assign the concepts to the participants*  
+    Assign each concept to a participant. 2 cards per person if you have 4 attendees, etc.
+ 
+3. *Let the participants read and understand their concepts*  
+    The participants have 1 minute to read and understand the one or two concepts that are assigned to them.
+    
+4. *Presentation of the concept*  
+    Pick one participant and ask him/her to explain the concept to the other attendees. Correct him/her if necessary.
 
+5. *Positioning on the fresco*  
+    The participant which just explained his/her concept put the card on the fresco and explain the links that he/she would draw with other concepts. The card shouldn't be linked with all other cards of the fresco. On average, a card is linked to 1 to 4 other cards.
+
+6. *Validating the links*  
+    The facilitator accepts the links and draw them on the fresco or disagree with some and explain why. In that case, the facilitator won't draw the links. The links are just lines on the whiteboard if done on-site; arrows on the digital workplace if done remotely.
+    
+7. *Iterations*  
+    Go back to the step 4. untill all the current wave's concepts are positionned on the fresco, and start the next wave.
 
 ### 3. Conclusion
 

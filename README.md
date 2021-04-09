@@ -23,7 +23,7 @@ Explain:
 - [x] how will the game play out,
 - [x] how the participants will interact, what they will have to do.
 
-You will find these information in the section 2. "Fresco build".
+You will find these information in the [section 2 - "Fresco build"](https://github.com/michelin/API-Fresco#2-fresco-build).
 
 #### 1.2. Show them an example
 For this example, you, as a facilitator, will do what the participants will have to do in the next phases.  

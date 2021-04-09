@@ -37,7 +37,7 @@ According to the digital workplace you use, you can organize a vote session. If 
 [ROTI 5](../img/ROTI5.png)
 
 **Title and description**  
-You can copy/paste the following text to introduce your digital workplace:  
+You can copy/paste the following text to introduce the workshop:  
 
 ```markdown
 Welcome on the API Fresco workshop!

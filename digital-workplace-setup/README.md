@@ -7,7 +7,7 @@ You'll find here elements that will enable you to quickly setting-up your API Fr
 - [Elements you can use](https://github.com/michelin/API-Fresco/tree/main/digital-workplace-setup#elements-you-can-use)
 
 ## Example link
-You can [Find here](https://app.mural.co/t/teamsandbox1918/m/teamsandbox1918/1591213119387/d715eaa6d4e0cb84cfa581a693afa2bc4381afe7) a setup example of API Fresco in a digital workplace.  
+You can [find here](https://app.mural.co/t/teamsandbox1918/m/teamsandbox1918/1591213119387/d715eaa6d4e0cb84cfa581a693afa2bc4381afe7) a setup example of API Fresco in a digital workplace.  
 
 **Example's wave 1**  
 In this example, you can see that the first wave is already done (the hiding element has been put aside on the top of the screen), and 9 cards are already put on the freco. These 9 cards are the example one (the API card) + the 8 cards of the first wave.  

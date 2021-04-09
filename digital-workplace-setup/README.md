@@ -25,3 +25,15 @@ According to the digital workplace you use, you can organize a vote session. If 
 [ROTI 3](../img/ROTI3.png)  
 [ROTI 4](../img/ROTI4.png)  
 [ROTI 5](../img/ROTI5.png)
+
+**Title and description**  
+You can copy/paste the following text to finish your digital workplace:  
+
+*Welcome on the API Fresco workshop!*
+
+*The concept is simple!*  
+
+*For each wave:*  
+*1. Take one card and read it,*  
+*2. Explain it to the team,*  
+*3. Situate it on the fresco!*  

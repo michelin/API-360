@@ -70,5 +70,10 @@ Each wave also complement the fresco by making the links between these concepts 
     Go back to the step 4. untill all the current wave's concepts are positionned on the fresco, and start the next wave.
 
 ### 3. Conclusion
+Once the workshop is over, it's time to collect some feedback!  
+
+Ask the participants if they liked the workshop, if they learned something, what they will remember the more, etc. Collecting feedback is the best way to improve the workshop and its facilitation.  
+
+Ask the participants to give you a ROTI, with a verbatim each time they dont mark 3. The digital templates are already ROTI-ready.
 
 ## How to use this repository?

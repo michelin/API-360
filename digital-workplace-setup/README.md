@@ -45,7 +45,7 @@ Welcome on the API Fresco workshop!
 The concept is simple!  
 
 For each wave:  
-*1. Take one card and read it,  
-*2. Explain it to the team,  
-*3. Situate it on the fresco!  
+1. Take one card and read it,  
+2. Explain it to the team,  
+3. Situate it on the fresco!  
 ```

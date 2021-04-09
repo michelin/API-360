@@ -39,11 +39,13 @@ According to the digital workplace you use, you can organize a vote session. If 
 **Title and description**  
 You can copy/paste the following text to finish your digital workplace:  
 
-*Welcome on the API Fresco workshop!*
+```markdown
+Welcome on the API Fresco workshop!
 
-*The concept is simple!*  
+The concept is simple!  
 
-*For each wave:*  
-*1. Take one card and read it,*  
-*2. Explain it to the team,*  
-*3. Situate it on the fresco!*  
+For each wave:  
+*1. Take one card and read it,  
+*2. Explain it to the team,  
+*3. Situate it on the fresco!  
+```

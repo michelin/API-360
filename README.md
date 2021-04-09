@@ -14,6 +14,7 @@ This workshop is collaborative, empirical & entertaining.
    - [Fresco build](https://github.com/michelin/API-Fresco#2-fresco-build)
    - [Conclusion](https://github.com/michelin/API-Fresco#3-conclusion)
  - [How to use this repository?](https://github.com/michelin/API-Fresco#how-to-use-this-repository)
+ - [Badges](https://github.com/michelin/API-Fresco#badges)
 
 ## Prerequisites
 - [x] An API expert, to facilitate the workshop,
@@ -85,3 +86,23 @@ Ask the participants if they liked the workshop, if they learned something, what
 Ask the participants to give you a ROTI, with a verbatim each time they dont mark 3. The digital templates are already ROTI-ready.
 
 ## How to use this repository?
+
+- This repository will help you know and understand the API Freco.
+- The cards needed to play the game are in this repository. You can download and print them. 
+- You'll also find digital workplace templates, for you to quickly setup the workshop.
+
+This repository will evolve through the time, more API concepts, languages, badges, etc. will come soon. Stay tuned!
+
+It is also for you the opportunity to contact us if you want to try this workshop for your company.
+
+## Badges
+
+**API Ambassador**
+A person who attended the API Fresco is becoming an API Ambassador. This person knows APIs and its related concepts and stakes.
+
+![API Ambassador Badge]()
+
+**API Facilitator**
+An API expert can become facilitator to spread the API Culture amonst his/her company. If you become a facilitator, contact us to join the network!
+
+![API Facilitator Badge]()

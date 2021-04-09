@@ -7,6 +7,14 @@ This workshop is collaborative, empirical & entertaining.
 **Ideal number of attendees: 4 to 8**  
 **Format: on site or remotely with a digital workplace (Mural, Miro, Draft.io, etc.)**
 
+## Table of contents
+ - [Prerequisites](https://github.com/michelin/API-Fresco#prerequisites)
+ - [The workshop](https://github.com/michelin/API-Fresco#the-workshop)
+   - [Introduction](https://github.com/michelin/API-Fresco#1-introduction)
+   - [Fresco build](https://github.com/michelin/API-Fresco#2-fresco-build)
+   - [Conclusion](https://github.com/michelin/API-Fresco#3-conclusion)
+ - [How to use this repository?](https://github.com/michelin/API-Fresco#how-to-use-this-repository)
+
 ## Prerequisites
 - [x] An API expert, to facilitate the workshop,
 - [x] A set of cards provided in this repository,

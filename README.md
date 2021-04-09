@@ -2,11 +2,11 @@
 
 The API Fresco is a creative workshop concept which aims to build and test the API awareness. Targeting technical and non-technical profiles, it can help erasing fake-beliefs around APIs. The API Fresco explains some concepts and also show the links between these concepts.
 
+This workshop is collaborative, empirical & entertaining.
+
 Common fake-beliefs around APIs:
 - The API Manager hosts APIs,
 - The API Key is here to secure the API.
-
-This workshop is collaborative, empirical & entertaining.
 
 **Ideal number of attendees: 4 to 8**  
 **Format: on site or remotely with a digital workplace (Mural, Miro, Draft.io, etc.)**

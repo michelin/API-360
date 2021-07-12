@@ -1,6 +1,6 @@
 # Attributions
 
-API Fresco cards' icons and badges are made by / adapted from the work of:
+API 360° cards' icons and badges are made by / adapted from the work of:
 - https://www.flaticon.com/authors/monkik
 - https://www.flaticon.com/authors/flat-icons
 - https://www.flaticon.com/authors/pixelmeetup

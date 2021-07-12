@@ -1,6 +1,6 @@
-![API Freco](img/Banner.png)
+![API 360](img/Banner.png)
 
-The API Fresco is a creative workshop concept which aims to build and test the API awareness. Targeting technical and non-technical profiles, it can help erasing fake-beliefs around APIs. The API Fresco explains some concepts and also show the links between these concepts.
+API 360° Fresco is a creative workshop concept which aims to build and test the API awareness. Targeting technical and non-technical profiles, it can help erasing fake-beliefs around APIs. API 360° explains some concepts and also show the links between these concepts.
 
 This workshop is collaborative, empirical & entertaining.
 
@@ -12,13 +12,13 @@ Common fake-beliefs around APIs:
 **Format: on site or remotely with a digital workplace (Mural, Miro, Draft.io, etc.)**
 
 ## Table of contents
- - [Prerequisites](https://github.com/michelin/API-Fresco#prerequisites)
- - [The workshop](https://github.com/michelin/API-Fresco#the-workshop)
-   - [Introduction](https://github.com/michelin/API-Fresco#1-introduction)
-   - [Fresco build](https://github.com/michelin/API-Fresco#2-fresco-build)
-   - [Conclusion](https://github.com/michelin/API-Fresco#3-conclusion)
- - [How to use this repository?](https://github.com/michelin/API-Fresco#how-to-use-this-repository)
- - [Badges](https://github.com/michelin/API-Fresco#badges)
+ - [Prerequisites](https://github.com/michelin/API-360#prerequisites)
+ - [The workshop](https://github.com/michelin/API-360#the-workshop)
+   - [Introduction](https://github.com/michelin/API-360#1-introduction)
+   - [360](https://github.com/michelin/API-360#2-fresco-build)
+   - [Conclusion](https://github.com/michelin/API-360#3-conclusion)
+ - [How to use this repository?](https://github.com/michelin/API-360#how-to-use-this-repository)
+ - [Badges](https://github.com/michelin/API-360#badges)
 
 ## Prerequisites
 - [x] An API expert, to facilitate the workshop,
@@ -26,39 +26,39 @@ Common fake-beliefs around APIs:
 - [x] A digital workplace set up, if you want to do it remotely; a whiteboard if you want to do it on-site. Digital templates are provided in this repository.
 
 ## The workshop
-This workshop takes place in three main phases: the introduction, the freco build and the conclusion.
+This workshop takes place in three main phases: the introduction, the "360" and the conclusion.
 
 ### 1. Introduction
 
 #### 1.1. Explain the workshop  
-The Introduction's aim is for the attendees to understand how does the API Fresco plays out. 
+The Introduction's aim is for the attendees to understand how does API 360° plays out. 
 Explain:
 - [x] how will the game play out,
 - [x] how the participants will interact, what they will have to do.
 
-You will find these insights in the [section 2 - "Fresco build"](https://github.com/michelin/API-Fresco#2-fresco-build).
+You will find these insights in the [section 2 - "360"](https://github.com/michelin/API-Fresco#2-360).
 
 #### 1.2. Show them an example
 For this example, you, as a facilitator, will do what the participants will have to do in the next phases.  
 
 The "API" concept is the perfect one to begin with. Say to the attendees that this concept is assigned to you.  
-You then explain the concept of APIs to the others and place it at the center of the fresco.  
+You then explain the concept of APIs to the others and place it at the center of the board.  
 Eventually, you explain that you don't draw links with other concepts as this is the first one, but for the next concept they will have to do so.
 
 #### 1.3. Let them try the digital workplace (*Only for remote workshops*)
 If the workshop is done remotely, the aim of this introduction phase is also for the participants to appropriate how to use the digital workplace.
 
 - [x] Send them the link of the digital workplace
-- [x] Explain them how to move on the fresco, and let them try
-- [X] Explain them how to move an object on the fresco, and let them try
+- [x] Explain them how to move on the board, and let them try
+- [X] Explain them how to move an object on the board, and let them try
 
-This step could seem optional but the experience shows that it is very valuable and really time-saving for the rest of the workshop.
+This step could seem optional but our experience shows that it is very valuable and really time-saving for the rest of the workshop.
 
-### 2. Fresco build
-The API Fresco build plays out in different waves.  
+### 2. 360
+The 360 phase plays out in different waves.  
  
 Each wave is the opportunity to discover 8 concepts and understand them. There is one concept by card.  
-Each wave also complement the fresco by making the links between these concepts and the one already here on the fresco.
+Each wave also complement the board by making the links between these concepts and the one already here on the board.
 
 **Wave conduct**
 1. *Reveal the concepts*  
@@ -73,14 +73,14 @@ Each wave also complement the fresco by making the links between these concepts 
 4. *Presentation of the concept*  
     Pick one participant and ask him/her to explain the concept to the other attendees. Correct him/her if necessary.
 
-5. *Positioning on the fresco*  
-    The participant which just explained his/her concept put the card on the fresco and explain the links that he/she would draw with other concepts. The card shouldn't be linked with all other cards of the fresco. On average, a card is linked to 1 to 4 other cards.
+5. *Positioning on the board*  
+    The participant which just explained his/her concept put the card on the board and explain the links that he/she would draw with other concepts. The card shouldn't be linked with all other cards of the board. On average, a card is linked to 1 to 4 other cards.
 
 6. *Validating the links*  
-    The facilitator accepts the links and draw them on the fresco or disagree with some and explain why. In that case, the facilitator won't draw the links. The links are just lines on the whiteboard if done on-site; arrows on the digital workplace if done remotely.
+    The facilitator accepts the links and draw them on the board or disagree with some and explain why. In that case, the facilitator won't draw the links. The links are just lines on the whiteboard if done on-site; arrows on the digital workplace if done remotely.
     
 7. *Iterations*  
-    Go back to the step 4. untill all the current wave's concepts are positionned on the fresco, and start the next wave.
+    Go back to the step 4. untill all the current wave's concepts are positionned on the board, and start the next wave.
 
 ### 3. Conclusion
 Once the workshop is over, it's time to collect some feedback!  
@@ -91,10 +91,10 @@ Ask the participants to give you a ROTI, with a verbatim each time they dont mar
 
 ## How to use this repository?
 
-- This repository will help you know and understand the API Freco.
+- This repository will help you know and understand the API 360° workshop.
 - The cards needed to play the game are in this repository. You can download and print them. 
-- You'll also find digital workplace elements, for you to quickly setup your own API Freco workshop.
-- The LICENSE file details the licencing of the API Fresco.
+- You'll also find digital workplace elements, for you to quickly setup your own API 360° workshop.
+- The LICENSE file details the licencing of the API 360° workshop.
 
 This repository will evolve through the time, more API concepts, languages, badges, etc. will come soon. Stay tuned!
 
@@ -103,7 +103,7 @@ It is also for you the opportunity to contact us if you want to try this worksho
 ## Badges
 
 **API Ambassador**  
-A person who attended the API Fresco is becoming an API Ambassador. This person knows APIs and its related concepts and stakes.
+A person who attended the API 360° workshop is becoming an API Ambassador. This person knows APIs and its related concepts and stakes.
 
 ![API Ambassador Badge](img/Sticker_Ambassador_miniature.png)  
 [click here](https://github.com/michelin/API-Fresco/blob/main/img/Sticker_Ambassador.png) to find the high quality badge.
@@ -113,4 +113,4 @@ A person who attended the API Fresco is becoming an API Ambassador. This person 
 An API expert can become facilitator to spread the API Culture amonst his/her company. If you become a facilitator, contact us to join the network!
 
 ![API Facilitator Badge](img/Sticker_Facilitator_miniature.png)  
-[click here](https://github.com/michelin/API-Fresco/blob/main/img/Sticker_Facilitator.png) to find the high quality badge.
+[click here](https://github.com/michelin/API-360/blob/main/img/Sticker_Facilitator.png) to find the high quality badge.

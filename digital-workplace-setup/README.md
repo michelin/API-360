@@ -1,16 +1,16 @@
 # Digital workplace setup
 
-You'll find here elements that will enable you to quickly setting-up your API Freco workshop on digital workplaces.
+You'll find here elements that will enable you to quickly setting-up your API 360° workshop on digital workplaces.
 
 ## Table of contents
-- [Example link](https://github.com/michelin/API-Fresco/tree/main/digital-workplace-setup#example-link)
-- [Elements you can use](https://github.com/michelin/API-Fresco/tree/main/digital-workplace-setup#elements-you-can-use)
+- [Example link](https://github.com/michelin/API-360/tree/main/digital-workplace-setup#example-link)
+- [Elements you can use](https://github.com/michelin/API-360/tree/main/digital-workplace-setup#elements-you-can-use)
 
 ## Example link
-You can [find here](https://app.mural.co/t/teamsandbox1918/m/teamsandbox1918/1591213119387/d715eaa6d4e0cb84cfa581a693afa2bc4381afe7) a setup example of API Fresco in a digital workplace.  
+You can [find here](https://app.mural.co/t/teamsandbox1918/m/teamsandbox1918/1591213119387/d715eaa6d4e0cb84cfa581a693afa2bc4381afe7) a setup example of API 360° workshop in a digital workplace.  
 
 **Example's wave 1**  
-In this example, you can see that the first wave is already done (the hiding element has been put aside on the top of the screen), and 9 cards are already put on the freco. These 9 cards are the example one (the API card) + the 8 cards of the first wave.  
+In this example, you can see that the first wave is already done (the hiding element has been put aside on the top of the screen), and 9 cards are already put on the board. These 9 cards are the example one (the API card) + the 8 cards of the first wave.  
 
 **Example's wave 2**  
 As you can see, the hiding element has been removed for the wave 2 too, on the top of the screen. Nevertheless, we can see that the wave 2 has just started because the 8 cards are still on the top of the screen; we are actually at the cards assignment step.  
@@ -40,12 +40,12 @@ According to the digital workplace you use, you can organize a vote session. If 
 You can copy/paste the following text to introduce the workshop:  
 
 ```markdown
-Welcome on the API Fresco workshop!
+Welcome on the API 360° workshop!
 
 The concept is simple!  
 
 For each wave:  
 1. Take one card and read it,  
 2. Explain it to the team,  
-3. Situate it on the fresco!  
+3. Situate it on the board!  
 ```

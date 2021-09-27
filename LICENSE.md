@@ -1,4 +1,4 @@
-Shield: [![CC BY ND 4.0][cc-by-nd-shield]][cc-by-nd]
+Shield: [![CC BY ND 4.0][cc-by-nd-shield](https://creativecommons.org/licenses/by-nd/4.0/)][cc-by-nd]
 
 This work is licensed under a
 [Creative Commons Attribution-NoDerivative 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).

@@ -93,7 +93,7 @@ Ask the participants to give you a ROTI, with a verbatim each time they dont mar
 
 - This repository will help you know and understand the API 360° workshop.
 - The cards needed to play the game are in this repository. You can download and print them. 
-- You'll also find digital workplace elements, for you to quickly setup your own API 360° workshop.
+- You'll also find [digital workplace elements](./setup/), for you to quickly setup your own API 360° workshop.
 - The LICENSE file details the licencing of the API 360° workshop.
 
 This repository will evolve through the time, more API concepts, languages, badges, etc. will come soon. Stay tuned!

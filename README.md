@@ -2,7 +2,7 @@
 
 API 360° is a creative, educative workshop concept which aims to build and test the API awareness. Targeting technical and non-technical profiles, it can help understanding API concepts and erasing fake-beliefs around APIs. API 360° enables to highligh the links between these API concepts.
 
-This workshop is collaborative & entertaining.
+This workshop is collaborative & entertaining. It will elvove through time: cards and distributions will be added
 
 **Ideal number of attendees: 4 to 8**  
 **Format: on site or remotely with a digital workplace (Mural, Miro, Draft.io, etc.)**
@@ -28,7 +28,7 @@ After the setup by the facilitator, this workshop takes place in three main phas
 ### 0. Setup
 This workshop can be played in dozens of different ways. Hence, the facilitator needs to define before the meeting what's its aim: educate managers or businesses about API concepts? Improve API Security awareness of a development team? etc.
 
-All the different distributions of the workshop are available [here](./distributions.md)
+All the proposed distributions of the workshop are available [here](./distributions.md). You can of course create yours! Share with us if you find some good one ;)
 
 ### 1. Introduction
 

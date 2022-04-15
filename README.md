@@ -1,12 +1,8 @@
 ![API 360](img/Banner.png)
 
-API 360° Fresco is a creative workshop concept which aims to build and test the API awareness. Targeting technical and non-technical profiles, it can help erasing fake-beliefs around APIs. API 360° explains some concepts and also show the links between these concepts.
+API 360° Fresco is a creative, educative workshop concept which aims to build and test the API awareness. Targeting technical and non-technical profiles, it can help understanding API concepts and erasing fake-beliefs around APIs. API 360° enables to highligh the links between these API concepts.
 
-This workshop is collaborative, empirical & entertaining.
-
-Common fake-beliefs around APIs:
-- The API Manager hosts APIs,
-- The API Key is here to secure the API.
+This workshop is collaborative & entertaining.
 
 **Ideal number of attendees: 4 to 8**  
 **Format: on site or remotely with a digital workplace (Mural, Miro, Draft.io, etc.)**
@@ -22,11 +18,16 @@ Common fake-beliefs around APIs:
 
 ## Prerequisites
 - [x] An API expert, to facilitate the workshop,
-- [x] A set of cards provided in this repository,
-- [x] A digital workplace set up, if you want to do it remotely; a whiteboard if you want to do it on-site. Digital templates are provided in this repository.
+- [x] A set of "API 360°" cards. Either a physical deck or digital cards provided in this repository,
+- [x] A digital workplace set up, if you want to do it remotely; a whiteboard or a large table if you want to do it on-site. Digital templates are provided in this repository.
 
 ## The workshop
-This workshop takes place in three main phases: the introduction, the "360" and the conclusion.
+After the setup by the facilitator, this workshop takes place in three main phases: the introduction, the "360°" and the conclusion.
+
+### 0. Setup
+This workshop can be played in dozens of different ways. Hence, the facilitator needs to define before the meeting what's its aim: educate managers or businesses about API concepts? Improve API Security awareness of a development team? etc.
+
+All the different distributions of the workshop are available [here](./distributions.md)
 
 ### 1. Introduction
 
@@ -55,9 +56,9 @@ If the workshop is done remotely, the aim of this introduction phase is also for
 This step could seem optional but our experience shows that it is very valuable and really time-saving for the rest of the workshop.
 
 ### 2. 360
-The 360 phase plays out in different waves.  
+The 360 phase plays out in one or different waves (according to the chosen [distribution](./distribution.md).  
  
-Each wave is the opportunity to discover 8 concepts and understand them. There is one concept by card.  
+Each wave is the opportunity to discover a bunch of concepts and understand them. There is one concept by card.  
 Each wave also complement the board by making the links between these concepts and the one already here on the board.
 
 **Wave conduct**

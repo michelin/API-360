@@ -57,29 +57,29 @@ If the workshop is done remotely, the aim of this introduction phase is also for
 This step could seem optional but our experience shows that it is very valuable and really time-saving for the rest of the workshop.
 
 ### 2. 360
-The 360 phase plays out in one or different waves (according to the chosen [distribution](./distribution.md).  
+The 360 phase plays out in one or different waves (according to the chosen [distribution](./distribution.md)).  
  
 Each wave is the opportunity to discover a bunch of concepts and understand them. There is one concept by card.  
-Each wave also complement the board by making the links between these concepts and the one already here on the board.
+Each wave also complements the board by making the links between these concepts and the ones already positioned on the board.
 
 **Wave conduct**
 1. *Reveal the concepts*  
-    The 8 concepts of each waves are hidden to the attendees. The first step of the wave is to reveal the concepts to the participants, by spreading the cards on the table or unlocking the cover image (if done remotely).
+    The concepts of each waves are hidden to the attendees. The first step of the wave is to reveal the concepts to the participants, by spreading the cards on the table or unlocking the cover image (if done remotely).
     
 2. *Assign the concepts to the participants*  
-    Assign each concept to a participant. 2 cards per person if you have 4 attendees, etc.
+    Assign each concept to a participant. 2 cards per person if you have a little number of attendees, etc.
  
 3. *Let the participants read and understand their concepts*  
     The participants have 1 minute to read and understand the one or two concepts that are assigned to them.
     
 4. *Presentation of the concept*  
-    Pick one participant and ask him/her to explain the concept to the other attendees. Correct him/her if necessary.
+    Pick the participants in sequence. Ask the person to explain the concept to the other attendees. Correct him/her if necessary.
 
 5. *Positioning on the board*  
     The participant which just explained his/her concept put the card on the board and explain the links that he/she would draw with other concepts. The card shouldn't be linked with all other cards of the board. On average, a card is linked to 1 to 4 other cards.
 
 6. *Validating the links*  
-    The facilitator accepts the links and draw them on the board or disagree with some and explain why. In that case, the facilitator won't draw the links. The links are just lines on the whiteboard if done on-site; arrows on the digital workplace if done remotely.
+    The facilitator accepts the links and draw them on the board or disagree with some and explain why. The links are just lines on the whiteboard if done on-site; arrows on the digital workplace if done remotely.
     
 7. *Iterations*  
     Go back to the step 4. untill all the current wave's concepts are positionned on the board, and start the next wave.
@@ -93,7 +93,7 @@ Ask the participants to give you a ROTI, with a verbatim each time they dont mar
 
 ## How to use this repository?
 
-- This repository will help you know and understand the API 360° workshop.
+- This repository will help you to know and understand the API 360° workshop.
 - The cards needed to play the game are in this repository. You can download and print them. 
 - You'll also find [digital workplace elements](./setup/), for you to quickly setup your own API 360° workshop.
 - The LICENSE file details the licencing of the API 360° workshop.
@@ -108,11 +108,11 @@ It is also for you the opportunity to contact us if you want to try this worksho
 A person who attended the API 360° workshop is becoming an API Ambassador. This person knows APIs and its related concepts and stakes.
 
 ![API Ambassador Badge](img/Sticker_Ambassador_miniature.png)  
-[click here](https://github.com/michelin/API-Fresco/blob/main/img/Sticker_Ambassador.png) to find the high quality badge.
+[click here](https://github.com/michelin/API-Fresco/blob/main/img/Sticker_Ambassador.png) to find the badge in high resolution.
 
 
 **API Facilitator**  
 An API expert can become facilitator to spread the API Culture amonst his/her company. If you become a facilitator, contact us to join the network!
 
 ![API Facilitator Badge](img/Sticker_Facilitator_miniature.png)  
-[click here](https://github.com/michelin/API-360/blob/main/img/Sticker_Facilitator.png) to find the high quality badge.
+[click here](https://github.com/michelin/API-360/blob/main/img/Sticker_Facilitator.png) to find the badge in high resolution.

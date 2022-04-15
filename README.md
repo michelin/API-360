@@ -1,6 +1,6 @@
 ![API 360](img/Banner.png)
 
-API 360° Fresco is a creative, educative workshop concept which aims to build and test the API awareness. Targeting technical and non-technical profiles, it can help understanding API concepts and erasing fake-beliefs around APIs. API 360° enables to highligh the links between these API concepts.
+API 360° is a creative, educative workshop concept which aims to build and test the API awareness. Targeting technical and non-technical profiles, it can help understanding API concepts and erasing fake-beliefs around APIs. API 360° enables to highligh the links between these API concepts.
 
 This workshop is collaborative & entertaining.
 
@@ -10,6 +10,7 @@ This workshop is collaborative & entertaining.
 ## Table of contents
  - [Prerequisites](https://github.com/michelin/API-360#prerequisites)
  - [The workshop](https://github.com/michelin/API-360#the-workshop)
+   - [Setup](https://github.com/michelin/API-360#0-setup)
    - [Introduction](https://github.com/michelin/API-360#1-introduction)
    - [360](https://github.com/michelin/API-360#2-fresco-build)
    - [Conclusion](https://github.com/michelin/API-360#3-conclusion)

@@ -28,7 +28,7 @@ After the setup by the facilitator, this workshop takes place in three main phas
 ### 0. Setup
 This workshop can be played in dozens of different ways. Hence, the facilitator needs to define before the meeting what's its aim: educate managers or businesses about API concepts? Improve API Security awareness of a development team? etc.
 
-All the proposed distributions of the workshop are available [here](./distributions.md). You can of course create yours! Share with us if you find some good one ;)
+All the examples of distributions of the workshop are available [here](./distributions.md). You can of course create yours! Share with us if you find some good one ;)
 
 ### 1. Introduction
 

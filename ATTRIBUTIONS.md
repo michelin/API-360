@@ -7,3 +7,7 @@ API 360° cards' icons and badges are made by / adapted from the work of:
 - https://www.flaticon.com/authors/freepik
 - https://www.flaticon.com/authors/photo3idea-studio
 - https://www.flaticon.com/authors/geotatah
+
+API 360° French "coming soon" visual is adapted from the work of:
+- https://www.flaticon.com/authors/freepik
+- www.freepik.com

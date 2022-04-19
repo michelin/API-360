@@ -14,6 +14,7 @@ This workshop is collaborative & entertaining. It will elvove through time: card
    - [Introduction](https://github.com/michelin/API-360#1-introduction)
    - [360](https://github.com/michelin/API-360#2-fresco-build)
    - [Conclusion](https://github.com/michelin/API-360#3-conclusion)
+ - [Big picture](https://github.com/michelin/API-360#big-picture)
  - [How to use this repository?](https://github.com/michelin/API-360#how-to-use-this-repository)
  - [Badges](https://github.com/michelin/API-360#badges)
 
@@ -94,6 +95,12 @@ Once the workshop is over, it's time to collect some feedback!
 Ask the participants if they liked the workshop, if they learned something, what they will remember the more, etc. Collecting feedback is the best way to improve the workshop and its facilitation.  
 
 Ask the participants to give you a ROTI, with a verbatim each time they dont mark 3. The digital templates are already ROTI-ready.
+
+## Big Picture
+
+What does it look like when all the cards are on the board? Here is an example that we propose, but remember that the board can look different according to your organization's context and rules!
+
+![The big picture](./img/Big_Picture.png)
 
 ## How to use this repository?
 

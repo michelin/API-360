@@ -16,6 +16,7 @@ The number of possible distributions is unlimited. Hence the best distributions 
 ## Examples 
 
 ### "API Education" Distribution targeting management/business people, beginners level
+You can find [here](https://github.com/michelin/API-360/blob/main/setup/README.md#example-link) an example of execution of this distribution.
 
 As this level is easy, the board remains empty at the beginning of the game.  
 The cards should be read and placed on the board as follows:

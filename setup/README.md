@@ -9,14 +9,16 @@ You'll find here elements that will enable you to quickly setting-up your API 36
 ## Example link
 You can [find here](https://app.mural.co/t/teamsandbox1918/m/teamsandbox1918/1591213119387/d715eaa6d4e0cb84cfa581a693afa2bc4381afe7) a setup example of API 360° workshop in a digital workplace.  
 
+This example uses the ["API Education" Distribution targeting management/business people, beginners level"](https://github.com/michelin/API-360/blob/main/distributions.md#api-education-distribution-targeting-managementbusiness-people-beginners-level) distribution.
+
 **Example's wave 1**  
-In this example, you can see that the first wave is already done (the hiding element has been put aside on the top of the screen), and 9 cards are already put on the board. These 9 cards are the example one (the API card) + the 8 cards of the first wave.  
+In this example, you can see that the first wave is already done (the hiding element has been put aside on the top of the screen), and 7 cards are already put on the board.  
 
 **Example's wave 2**  
-As you can see, the hiding element has been removed for the wave 2 too, on the top of the screen. Nevertheless, we can see that the wave 2 has just started because the 8 cards are still on the top of the screen; we are actually at the cards assignment step.  
+As you can see, the hiding element has been removed for the wave 2 too, on the top of the screen, which means that the wave 2 already began. Nevertheless, we can see that the wave 2 has just started because the 7 cards are still on the top of the screen; we are actually at the cards assignment step.  
 
 **Example's wave 3**  
-The wave 3 has not begun yet, the hiding element is properly hiding the 8 cards of this third wave.
+The wave 3 has not begun yet, the hiding element is properly hiding the cards of the third wave. For this specific distribution, there is actually no wave 3.
 
 ## Elements you can use
 

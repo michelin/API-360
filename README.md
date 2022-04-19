@@ -82,8 +82,12 @@ Each wave also complements the board by making the links between these concepts 
     The facilitator accepts the links and draw them on the board or disagree with some and explain why. The links are just lines on the whiteboard if done on-site; arrows on the digital workplace if done remotely.
     
 7. *Iterations*  
-    Go back to the step 4. untill all the current wave's concepts are positionned on the board, and start the next wave.
+    Go back to the step 4 untill all the current wave's concepts are positionned on the board, and start the next wave.
 
+The following image shows an example of a complete board after running the workshop with a security distribution:
+
+![security distribution result](./img/Security_Distribution.png)
+	
 ### 3. Conclusion
 Once the workshop is over, it's time to collect some feedback!  
 

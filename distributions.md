@@ -1,11 +1,12 @@
 # API 360° Distributions Examples
 
 ## Table of contents
-- [What is a distribution?]()
-- [Examples]()
-  - ["API Education" Distribution targeting management/business people, beginners level]()
-  - ["API Security" Distribution targeting tech/architect people, intermediate level]()
-  - ["API Monetization" Distribution targeting management/business people, beginners level]()
+- [What is a distribution?](https://github.com/michelin/API-360/blob/main/distributions.md#what-is-a-distribution)
+- [Examples](https://github.com/michelin/API-360/blob/main/distributions.md#examples)
+  - ["API Education" Distribution targeting management/business people, beginners level](https://github.com/michelin/API-360/blob/main/distributions.md#api-education-distribution-targeting-managementbusiness-people-beginners-level)
+  - ["API Security" Distribution targeting tech/architect people, intermediate level](https://github.com/michelin/API-360/blob/main/distributions.md#api-security-distribution-targeting-techarchitect-people-intermediate-level)
+  - ["API Monetization" Distribution targeting management/business people, beginners level](https://github.com/michelin/API-360/blob/main/distributions.md#api-monetization-distribution-targeting-managementbusiness-people-beginners-level)
+  - ["API Management from A to Z", beginners level](https://github.com/michelin/API-360/blob/main/distributions.md#api-management-from-a-to-z-beginners-level)
 
 ## What is a distribution?
 A distribution is an API 360° game mode. It is always targeting a population and a theme. Actually, the distribution corresponds to the story you want to tell to your attendance. Do you want to tell them how to securize an API? Or how an API could be monetized? 

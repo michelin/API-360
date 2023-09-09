@@ -58,7 +58,7 @@ If the workshop is done remotely, the aim of this introduction phase is also for
 This step could seem optional but our experience shows that it is very valuable and really time-saving for the rest of the workshop.
 
 ### 2. 360
-The 360 phase plays out in one or different waves (according to the chosen [distribution](./distribution.md)).  
+The 360 phase plays out in one or different waves (according to the chosen [distribution](./distributions.md)).  
  
 Each wave is the opportunity to discover a bunch of concepts and understand them. There is one concept by card.  
 Each wave also complements the board by making the links between these concepts and the ones already positioned on the board.
